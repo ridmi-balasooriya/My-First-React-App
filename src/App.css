@@ -1,5 +1,12 @@
-.App {
+.App, .peak_div, nav {
   text-align: center;
+}
+.app-div{
+  display: inline-block;
+  width: 40%;
+  border: thin dashed #ccc;
+  padding: 0px 10px 30px;
+  margin: 10px;
 }
 hr{
   margin: 40px;
